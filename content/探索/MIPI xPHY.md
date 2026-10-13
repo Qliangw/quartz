@@ -3,16 +3,12 @@ publish: true
 permalink: /探索/MIPI xPHY.md
 title: MIPI xPHY
 created: 2024-01-13
-modified: 2026-10-13T02:18:31.313Z
+modified: 2026-10-13T02:25:28.604Z
 published: 2024-01-13
 tags:
   - 溯源
 socialImage: MIPI xPHY.jpeg
 ---
-
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
-相关链接
 
 ## 简介
 
@@ -22,9 +18,9 @@ PHY 属于MIPI接口的底层部分，即物理层，其中涉及到物理连线
 
 MIPI 的 PHY 分为了 3 种
 
-- [D-PHY](/5c4245ae23a14c6db438d2f573601ddd) ： 最先出来的，应用最广泛
-- M-PHY ： 在D-PHY之后出来的，速度最快，基本没有应用场景
-- [C-PHY](/6f546ff102bd4faa9690c2e01c3bb8c2) ：最后出来的，有一定的应用
+- [[探索/MIPI D-PHY|MIPI D-PHY]] ： 最先出来的，应用最广泛
+- MIPI M-PHY ： 在D-PHY之后出来的，速度最快，基本没有应用场景
+- [[探索/MIPI C-PHY|MIPI C-PHY]] ：最后出来的，有一定的应用
 
 ![[探索/assets/MIPI xPHY-39.png]]
 
