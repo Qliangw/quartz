@@ -1,10 +1,13 @@
 ---
-title: RGB编码方式
-date: '2023-07-25'
 publish: true
+permalink: /探索/RGB编码方式.md
+title: RGB编码方式
+created: 2023-07-25
+modified: 2026-10-13T02:23:14.641Z
+published: 2023-07-25
 tags:
-- 溯源
-cover: RGB编码方式.jpeg
+  - 溯源
+socialImage: RGB编码方式.jpeg
 ---
 
 ## 简介
@@ -56,4 +59,5 @@ RGB 三个字母分别代表了 红(red)、绿(green)、蓝(blue)，这三种颜
 
 ---
 
-## RGB与YUV的转换
+- [[探索/RGB-YUV转换|RGB-YUV转换]]
+- [[探索/YUV-RGB图像在内存中大小计算|YUV-RGB图像在内存中大小计算]]

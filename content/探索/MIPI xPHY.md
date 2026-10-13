@@ -1,10 +1,13 @@
 ---
-title: MIPI xPHY
-date: '2024-01-13'
 publish: true
+permalink: /探索/MIPI xPHY.md
+title: MIPI xPHY
+created: 2024-01-13
+modified: 2026-10-13T02:18:31.313Z
+published: 2024-01-13
 tags:
-- 溯源
-cover: MIPI xPHY.jpeg
+  - 溯源
+socialImage: MIPI xPHY.jpeg
 ---
 
 ![[【Docker】局域网服务器如何拉取镜像 synced block]]
