@@ -5,8 +5,9 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
+  googleSiteVerification: oLV3U4dhf664LIKDiU_shY8xKMNcVMVtGF6q-In_FS
   locale: zh-CN
-  baseUrl: qliangw.github.io
+  baseUrl: blog.220525.xyz
   ignorePatterns:
     - private
     - templates
