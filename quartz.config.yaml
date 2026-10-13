@@ -5,7 +5,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  googleSiteVerification: oLV3U4dhf664LIKDiU_shY8xKMNcVMVtGF6q-In_FS
+  googleSiteVerification: "oLV3U4dhf664LIKDiU_shY8xKMNcVMVtGF6q-In_FSI"
   locale: zh-CN
   baseUrl: blog.220525.xyz
   ignorePatterns:
