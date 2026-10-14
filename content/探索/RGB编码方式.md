@@ -1,15 +1,15 @@
 ---
-title: RGB编码方式
 publish: true
-tags:
-- 溯源
-cover: RGB编码方式.jpeg
-created: '2023-07-25'
-publishDate: '2023-07-25'
-modified: '2023-07-25'
-lang: zh-CN
+permalink: /探索/RGB编码方式.md
+title: RGB编码方式
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-07-25
+modified: 2023-07-25
+published: 2023-07-25
+tags:
+  - 溯源
+socialImage: RGB编码方式.jpeg
 ---
 
 ## 简介
