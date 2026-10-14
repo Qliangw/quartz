@@ -12,8 +12,6 @@ comments: true
 description: ''
 ---
 
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
 > LVDS信号格式有两种
 >
 > 1. JEIDA标准

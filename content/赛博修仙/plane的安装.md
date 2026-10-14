@@ -1,16 +1,16 @@
 ---
-title: plane的安装
 publish: true
-tags:
-- Docker
-- 工具
-cover: plane的安装.jpeg
-created: '2025-03-17'
-publishDate: '2025-03-17'
-modified: '2025-03-17'
-lang: zh-CN
+permalink: /赛博修仙/plane的安装.md
+title: plane的安装
 comments: true
-description: ''
+lang: zh-CN
+created: 2025-03-17
+modified: 2025-03-17
+published: 2025-03-17
+tags:
+  - Docker
+  - 工具
+socialImage: plane的安装.jpeg
 ---
 
 ## 创建专有虚拟网络

@@ -13,8 +13,6 @@ comments: true
 description: ''
 ---
 
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
 > [!note]+ 弃置
 >
 > ## 安装nginx

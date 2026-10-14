@@ -12,8 +12,6 @@ comments: true
 description: ''
 ---
 
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
 ## 遇到的场景
 
 flash上存放着某个芯片的固件，该固件通过工具烧录进去

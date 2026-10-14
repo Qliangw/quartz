@@ -12,8 +12,6 @@ comments: true
 description: ''
 ---
 
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
 # 所需工具或设备
 
 - 群晖（unraid不需要如此折腾，其他Linux没有试验，理论可行）

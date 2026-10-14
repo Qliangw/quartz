@@ -12,8 +12,6 @@ comments: true
 description: ''
 ---
 
-![[【Docker】局域网服务器如何拉取镜像 synced block]]
-
 ## 官方指导
 
 <https://docs.zephyrproject.org/latest/develop/getting_started/index.html>

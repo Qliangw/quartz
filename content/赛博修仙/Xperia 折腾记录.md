@@ -1,14 +1,14 @@
 ---
-title: Xperia 折腾记录
 publish: true
-tags:
-- 折腾
-created: &id001 2024-03-25
-publishDate: *id001
-modified: *id001
-lang: zh-CN
+permalink: /赛博修仙/Xperia 折腾记录.md
+title: Xperia 折腾记录
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-03-25
+modified: 2024-03-25
+published: 2024-03-25
+tags:
+  - 折腾
 ---
 
 ## 准备
