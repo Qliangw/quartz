@@ -1,16 +1,16 @@
 ---
-title: nginx+filebrowser搭建文件索引服务器
 publish: true
-tags:
-- Docker
-- 工具
-cover: nginx+filebrowser搭建文件索引服务器.png
-created: '2024-08-26'
-publishDate: '2024-08-26'
-modified: '2024-08-26'
-lang: zh-CN
+permalink: /赛博修仙/nginx+filebrowser搭建文件索引服务器.md
+title: nginx+filebrowser搭建文件索引服务器
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-08-26
+modified: 2024-08-26
+published: 2024-08-26
+tags:
+  - Docker
+  - 工具
+socialImage: nginx+filebrowser搭建文件索引服务器.png
 ---
 
 > [!note]+ 弃置

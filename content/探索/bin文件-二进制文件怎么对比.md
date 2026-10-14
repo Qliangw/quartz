@@ -1,15 +1,15 @@
 ---
-title: bin文件-二进制文件怎么对比
 publish: true
-tags:
-- 学习
-cover: bin文件-二进制文件怎么对比.jpeg
-created: '2024-08-22'
-publishDate: '2024-08-22'
-modified: '2024-08-22'
-lang: zh-CN
+permalink: /探索/bin文件-二进制文件怎么对比.md
+title: bin文件-二进制文件怎么对比
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-08-22
+modified: 2024-08-22
+published: 2024-08-22
+tags:
+  - 学习
+socialImage: bin文件-二进制文件怎么对比.jpeg
 ---
 
 ## 遇到的场景

@@ -1,16 +1,16 @@
 ---
-title: 局域网搭建bootlin
 publish: true
-tags:
-- Docker
-- 工具
-cover: 局域网搭建bootlin.png
-created: &id001 2024-09-30
-publishDate: *id001
-modified: *id001
-lang: zh-CN
+permalink: /赛博修仙/局域网搭建bootlin.md
+title: 局域网搭建bootlin
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-09-30
+modified: 2024-09-30
+published: 2024-09-30
+tags:
+  - Docker
+  - 工具
+socialImage: 局域网搭建bootlin.png
 ---
 
 # 安装基础环境

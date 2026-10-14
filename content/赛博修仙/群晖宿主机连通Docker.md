@@ -1,15 +1,15 @@
 ---
-title: 群晖宿主机连通Docker
 publish: true
-tags:
-- 折腾
-cover: 群晖宿主机连通Docker.jpeg
-created: '2022-03-20'
-publishDate: '2022-03-20'
-modified: '2022-03-20'
-lang: zh-CN
+permalink: /赛博修仙/群晖宿主机连通Docker.md
+title: 群晖宿主机连通Docker
 comments: true
-description: ''
+lang: zh-CN
+created: 2022-03-20
+modified: 2022-03-20
+published: 2022-03-20
+tags:
+  - 折腾
+socialImage: 群晖宿主机连通Docker.jpeg
 ---
 
 # 所需工具或设备

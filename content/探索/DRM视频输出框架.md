@@ -1,15 +1,15 @@
 ---
-title: DRM视频输出框架
 publish: true
-tags:
-- 溯源
-cover: DRM视频输出框架.jpeg
-created: '2023-07-26'
-publishDate: '2023-07-26'
-modified: '2023-07-26'
-lang: zh-CN
+permalink: /探索/DRM视频输出框架.md
+title: DRM视频输出框架
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-07-26
+modified: 2023-07-26
+published: 2023-07-26
+tags:
+  - 溯源
+socialImage: DRM视频输出框架.jpeg
 ---
 
 > DRM 全称是 Direct Rendering Manager， 进行显示输出管理、 buffer 分配、 帧缓冲。

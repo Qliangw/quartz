@@ -1,15 +1,15 @@
 ---
-title: emby_notify使用说明
 publish: true
-tags:
-- 工具
-cover: emby_notify使用说明.jpeg
-created: '2022-03-21'
-publishDate: '2022-03-21'
-modified: '2022-03-21'
-lang: zh-CN
+permalink: /赛博修仙/emby_notify使用说明.md
+title: emby_notify使用说明
 comments: true
-description: ''
+lang: zh-CN
+created: 2022-03-21
+modified: 2022-03-21
+published: 2022-03-21
+tags:
+  - 工具
+socialImage: emby_notify使用说明.jpeg
 ---
 
 <!-- Column 1 -->

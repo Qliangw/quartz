@@ -1,15 +1,15 @@
 ---
-title: phy-mode
 publish: true
-tags:
-- 溯源
-cover: phy-mode.jpeg
-created: '2023-08-15'
-publishDate: '2023-08-15'
-modified: '2023-08-15'
-lang: zh-CN
+permalink: /探索/phy-mode.md
+title: phy-mode
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-08-15
+modified: 2023-08-15
+published: 2023-08-15
+tags:
+  - 溯源
+socialImage: phy-mode.jpeg
 ---
 
 1. MII (Media Independent Interface) - 10 Mbps:

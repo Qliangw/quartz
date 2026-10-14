@@ -1,15 +1,15 @@
 ---
-title: HDCP是什么
 publish: true
-tags:
-- 溯源
-cover: HDCP是什么.jpeg
-created: '2023-07-25'
-publishDate: '2023-07-25'
-modified: '2023-07-25'
-lang: zh-CN
+permalink: /探索/HDCP是什么.md
+title: HDCP是什么
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-07-25
+modified: 2023-07-25
+published: 2023-07-25
+tags:
+  - 溯源
+socialImage: HDCP是什么.jpeg
 ---
 
 HDCP，（Hith-Bandwidth Digital Content Protection），高带宽数字内容保护技术

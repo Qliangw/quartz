@@ -1,15 +1,15 @@
 ---
-title: LCD与OLED有什么区别？
 publish: true
-tags:
-- 溯源
-cover: LCD与OLED有什么区别？.jpeg
-created: '2023-07-21'
-publishDate: '2023-07-21'
-modified: '2023-07-21'
-lang: zh-CN
+permalink: /探索/LCD与OLED有什么区别？.md
+title: LCD与OLED有什么区别？
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-07-21
+modified: 2023-07-21
+published: 2023-07-21
+tags:
+  - 溯源
+socialImage: LCD与OLED有什么区别？.jpeg
 ---
 
 ### LCD屏幕

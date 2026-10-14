@@ -1,15 +1,15 @@
 ---
-title: 解决msvcp140.dll 报错
 publish: true
-tags:
-- 折腾
-cover: 解决msvcp140.dll 报错
-created: '2024-04-09'
-publishDate: '2024-04-09'
-modified: '2024-04-09'
-lang: zh-CN
+permalink: /赛博修仙/解决msvcp140.dll 报错.md
+title: 解决msvcp140.dll 报错
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-04-09
+modified: 2024-04-09
+published: 2024-04-09
+tags:
+  - 折腾
+socialImage: 解决msvcp140.dll 报错
 ---
 
 由于找不到msvcp140.dll

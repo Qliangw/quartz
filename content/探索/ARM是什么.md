@@ -1,15 +1,15 @@
 ---
-title: ARM是什么
 publish: true
-tags:
-- 溯源
-cover: ARM是什么.jpeg
-created: '2023-07-31'
-publishDate: '2023-07-31'
-modified: '2023-07-31'
-lang: zh-CN
+permalink: /探索/ARM是什么.md
+title: ARM是什么
 comments: true
-description: ''
+lang: zh-CN
+created: 2023-07-31
+modified: 2023-07-31
+published: 2023-07-31
+tags:
+  - 溯源
+socialImage: ARM是什么.jpeg
 ---
 
 ## ARM

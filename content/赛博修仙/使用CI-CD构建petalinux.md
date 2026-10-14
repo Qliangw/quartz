@@ -1,14 +1,14 @@
 ---
-title: 使用CI-CD构建petalinux
 publish: true
-tags:
-- Docker
-created: &id001 2024-11-05
-publishDate: *id001
-modified: *id001
-lang: zh-CN
+permalink: /赛博修仙/使用CI-CD构建petalinux.md
+title: 使用CI-CD构建petalinux
 comments: true
-description: ''
+lang: zh-CN
+created: 2024-11-05
+modified: 2024-11-05
+published: 2024-11-05
+tags:
+  - Docker
 ---
 
 ## 基础
