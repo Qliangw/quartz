@@ -1,11 +1,16 @@
 ---
 title: nginx+filebrowser搭建文件索引服务器
-date: '2024-08-26'
 publish: true
 tags:
 - Docker
 - 工具
 cover: nginx+filebrowser搭建文件索引服务器.png
+created: '2024-08-26'
+publishDate: '2024-08-26'
+modified: '2024-08-26'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ![[【Docker】局域网服务器如何拉取镜像 synced block]]

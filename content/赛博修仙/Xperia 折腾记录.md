@@ -1,9 +1,14 @@
 ---
 title: Xperia 折腾记录
-date: 2024-03-25
 publish: true
 tags:
-  - 折腾
+- 折腾
+created: &id001 2024-03-25
+publishDate: *id001
+modified: *id001
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 准备

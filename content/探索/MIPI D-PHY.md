@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/MIPI D-PHY.md
 title: MIPI D-PHY
-created: 2024-03-25
-modified: 2026-10-13T02:30:16.724Z
-published: 2024-03-25
+publish: true
 tags:
-  - 溯源
-socialImage: MIPI D-PHY.jpeg
+- 溯源
+cover: MIPI D-PHY.jpeg
+created: &id001 2024-03-25
+publishDate: *id001
+modified: *id001
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 简述

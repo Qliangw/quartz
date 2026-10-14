@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/RGB-YUV转换.md
 title: RGB-YUV转换
-created: 2023-07-25
-modified: 2026-10-13T02:22:13.009Z
-published: 2023-07-25
+publish: true
 tags:
-  - 溯源
-socialImage: RGB-YUV转换.jpeg
+- 溯源
+cover: RGB-YUV转换.jpeg
+created: '2023-07-25'
+publishDate: '2023-07-25'
+modified: '2023-07-25'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 编码方式

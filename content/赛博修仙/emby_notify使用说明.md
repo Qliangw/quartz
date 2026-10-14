@@ -1,10 +1,15 @@
 ---
 title: emby_notify使用说明
-date: '2022-03-21'
 publish: true
 tags:
 - 工具
 cover: emby_notify使用说明.jpeg
+created: '2022-03-21'
+publishDate: '2022-03-21'
+modified: '2022-03-21'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 <!-- Column 1 -->

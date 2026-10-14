@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/MIPI xPHY.md
 title: MIPI xPHY
-created: 2024-01-13
-modified: 2026-10-13T02:25:28.604Z
-published: 2024-01-13
+publish: true
 tags:
-  - 溯源
-socialImage: MIPI xPHY.jpeg
+- 溯源
+cover: MIPI xPHY.jpeg
+created: '2024-01-13'
+publishDate: '2024-01-13'
+modified: '2024-01-13'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 简介

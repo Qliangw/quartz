@@ -1,11 +1,16 @@
 ---
 title: 局域网搭建bootlin
-date: 2024-09-30
 publish: true
 tags:
 - Docker
 - 工具
 cover: 局域网搭建bootlin.png
+created: &id001 2024-09-30
+publishDate: *id001
+modified: *id001
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 # 安装基础环境

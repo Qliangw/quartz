@@ -1,9 +1,14 @@
 ---
 title: 使用CI-CD构建petalinux
-date: 2024-11-05
 publish: true
 tags:
 - Docker
+created: &id001 2024-11-05
+publishDate: *id001
+modified: *id001
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 基础

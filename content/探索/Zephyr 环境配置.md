@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/Zephyr 环境配置.md
 title: Zephyr 环境配置
-created: 2024-01-13
-modified: 2026-10-13T01:28:00.546Z
-published: 2024-01-13
+publish: true
 tags:
-  - 学习
-socialImage: Zephyr 环境配置.jpeg
+- 学习
+cover: Zephyr 环境配置.jpeg
+created: '2024-01-13'
+publishDate: '2024-01-13'
+modified: '2024-01-13'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ![[【Docker】局域网服务器如何拉取镜像 synced block]]

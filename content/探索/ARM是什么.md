@@ -1,10 +1,15 @@
 ---
 title: ARM是什么
-date: '2023-07-31'
 publish: true
 tags:
 - 溯源
 cover: ARM是什么.jpeg
+created: '2023-07-31'
+publishDate: '2023-07-31'
+modified: '2023-07-31'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## ARM

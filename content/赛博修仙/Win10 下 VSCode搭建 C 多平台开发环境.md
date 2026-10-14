@@ -1,9 +1,14 @@
 ---
 title: Win10 下 VSCode搭建 C 多平台开发环境
-date: 2024-03-25
 publish: true
 tags:
-  - 工具
+- 工具
+created: &id001 2024-03-25
+publishDate: *id001
+modified: *id001
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 准备工具

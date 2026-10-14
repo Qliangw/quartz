@@ -1,10 +1,15 @@
 ---
 title: 群晖宿主机连通Docker
-date: '2022-03-20'
 publish: true
 tags:
 - 折腾
 cover: 群晖宿主机连通Docker.jpeg
+created: '2022-03-20'
+publishDate: '2022-03-20'
+modified: '2022-03-20'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ![[【Docker】局域网服务器如何拉取镜像 synced block]]

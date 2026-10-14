@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/YUV编码方式.md
 title: YUV编码方式
-created: 2023-07-25
-modified: 2026-10-13T01:28:00.513Z
-published: 2023-07-25
+publish: true
 tags:
-  - 溯源
-socialImage: YUV编码方式.jpeg
+- 溯源
+cover: YUV编码方式.jpeg
+created: '2023-07-25'
+publishDate: '2023-07-25'
+modified: '2023-07-25'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 概述

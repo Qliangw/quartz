@@ -1,13 +1,15 @@
 ---
-publish: true
-permalink: /探索/bin文件-二进制文件怎么对比.md
 title: bin文件-二进制文件怎么对比
-created: 2024-08-22
-modified: 2026-10-13T01:27:59.874Z
-published: 2024-08-22
+publish: true
 tags:
-  - 学习
-socialImage: bin文件-二进制文件怎么对比.jpeg
+- 学习
+cover: bin文件-二进制文件怎么对比.jpeg
+created: '2024-08-22'
+publishDate: '2024-08-22'
+modified: '2024-08-22'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ![[【Docker】局域网服务器如何拉取镜像 synced block]]

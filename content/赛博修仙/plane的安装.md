@@ -1,11 +1,16 @@
 ---
 title: plane的安装
-date: '2025-03-17'
 publish: true
 tags:
 - Docker
 - 工具
 cover: plane的安装.jpeg
+created: '2025-03-17'
+publishDate: '2025-03-17'
+modified: '2025-03-17'
+lang: zh-CN
+comments: true
+description: ''
 ---
 
 ## 创建专有虚拟网络
