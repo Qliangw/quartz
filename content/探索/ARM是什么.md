@@ -65,7 +65,7 @@ RISC（Reduced Instruction Set Computer）
 
 ## ARM处理器分类
 
-> [!note]+ ### ARM分类
+> [!note]- ARM分类
 >
 > > ARM公司自 2004 年推出的 ARMv7 内核架构时，摒弃了以往 “ARM+数字” 这种命名方法（ARM11之前的处理器统称为经典处理器系列（老东西系列）），重新启用 Cortex 来命名，并且将 Cortex 系列细分三大类
 > >
@@ -117,7 +117,7 @@ RISC（Reduced Instruction Set Computer）
 > - Cortex-M SecureCore
 > - ARM Neoverse
 
-> [!note]+ ### Cortex-A系列演进关系
+> [!note]- Cortex-A系列演进关系
 >
 > ![[探索/assets/ARM是什么-63.png]]
 
