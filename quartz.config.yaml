@@ -216,13 +216,13 @@ plugins:
     options:
       provider: giscus
       options: 
-        repo: Qliangw/qwblog-giscus
+        repo: Qliangw/quartz
         repoId: R_kgDOVFeAAw
         category: Comments
         categoryId: DIC_kwDOVFeAA84DId4c
         lang: zh-CN
         inputPosition: top
-        reactionsEnabled: false
+        reactionsEnabled: true
     layout:
       position: afterBody
       priority: 10
