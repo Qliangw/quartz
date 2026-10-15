@@ -222,6 +222,7 @@ plugins:
         categoryId: DIC_kwDOVFeAA84DId4c
         lang: zh-CN
         inputPosition: top
+        mapping: "og:title"
         reactionsEnabled: true
     layout:
       position: afterBody
